@@ -8,7 +8,6 @@ class MatchPage extends StatefulWidget {
   @override
   State<MatchPage> createState() => _MatchPageState();
 }
-
 class _MatchPageState extends State<MatchPage>
     with SingleTickerProviderStateMixin {
   int index = 0;
